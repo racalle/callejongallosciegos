@@ -9,11 +9,21 @@
     <lastBuildDate>Thu, 05 Nov 2020 19:10:21 +0100</lastBuildDate><atom:link href="https://callejongallosciegos.rcalle.es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://callejongallosciegos.rcalle.es/2020-01-piloto/</link>
+      <link>https://callejongallosciegos.rcalle.es/2020-00-piloto/</link>
       <pubDate>Thu, 05 Nov 2020 19:10:21 +0100</pubDate>
       
-      <guid>https://callejongallosciegos.rcalle.es/2020-01-piloto/</guid>
-      <description>Bootstrapping alpha seed money scrum project. Business model canvas low hanging fruit series A financing release vesting period research &amp;amp; development market buzz network effects channels long tail client partner network pivot. Innovator market android buyer gamification. User experience gamification interaction design sales. Buyer stealth research &amp;amp; development sales business-to-business social media graphical user interface. Market incubator hypotheses seed money release low hanging fruit infographic responsive web design branding technology interaction design buyer.</description>
+      <guid>https://callejongallosciegos.rcalle.es/2020-00-piloto/</guid>
+      <description> 0. Piloto Un nuevo podcast se está cocinando a fuego lento. Esperad al capítulo piloto.
+ tags: episodio, 2020-00-piloto </description>
+    </item>
+    
+    <item>
+      <title>Ramón Calle</title>
+      <link>https://callejongallosciegos.rcalle.es/host/0rcalle/</link>
+      <pubDate>Sun, 01 Nov 2020 20:55:58 -0600</pubDate>
+      
+      <guid>https://callejongallosciegos.rcalle.es/host/0rcalle/</guid>
+      <description>Ramón Calle. Presentación WIP.</description>
     </item>
     
     <item>
@@ -181,15 +191,6 @@ Engaging waterfall is so 2000 and late responsive agile iterate intuitive sticky
     </item>
     
     <item>
-      <title>Facunda Rubia</title>
-      <link>https://callejongallosciegos.rcalle.es/host/bkromhout/</link>
-      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
-      
-      <guid>https://callejongallosciegos.rcalle.es/host/bkromhout/</guid>
-      <description>Bridget Kromhout is a Principal Cloud Developer Advocate at Microsoft. Her CS degree emphasis was in theory, but she now deals with the concrete (if &amp;ldquo;cloud&amp;rdquo; can be considered tangible). After 15 years as an operations engineer, she traded being on call for being on a plane. A frequent speaker and program committee member for tech conferences, she leads the devopsdays organization globally and the devops community at home in Minneapolis.</description>
-    </item>
-    
-    <item>
       <title>Jane Smith</title>
       <link>https://callejongallosciegos.rcalle.es/guest/jsmith/</link>
       <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
@@ -214,25 +215,6 @@ Engaging waterfall is so 2000 and late responsive agile iterate intuitive sticky
       
       <guid>https://callejongallosciegos.rcalle.es/guest/jsmith3/</guid>
       <description>Spoon fresh pie ingredients groceries oranges luncheon farm. Broth chick peas Chinese food indie foods. Cream heating cheese food locally grown first class caramelize restaurant grocery shopping savory chick peas. Recommendations lovely starter soda herbes fridge chocolate eat better quinoa sausage java chef locally grown wholesome. Broil sweet sushi lasagna cream indian. Desert sour vegetarian sous-chef soda oven tasty eat better rice recommendations relish salt butter grape. Grocery shopping delicious Chinese food beets conserve ginger.</description>
-    </item>
-    
-    <item>
-      <title>Matt Stratton</title>
-      <link>https://callejongallosciegos.rcalle.es/host/mstratton/</link>
-      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
-      
-      <guid>https://callejongallosciegos.rcalle.es/host/mstratton/</guid>
-      <description>Matt Stratton is a solutions architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says “DevOps”. He lives in Chicago and has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey.</description>
-    </item>
-    
-    <item>
-      <title>Trevor Hess</title>
-      <link>https://callejongallosciegos.rcalle.es/host/thess/</link>
-      <pubDate>Thu, 08 Dec 2016 20:55:58 -0600</pubDate>
-      
-      <guid>https://callejongallosciegos.rcalle.es/host/thess/</guid>
-      <description>Trevor Hess is a Partner Solution Architect focusing on Microsoft at Chef Software, working with Microsoft to ensure that Chef is delighting customers and prospects on Windows and the many parts inside Azure!
-Coming from a background in .NET Software Development and consulting, he has worked with several large multinational organizations to help kick start their journey to the cloud and the world of DevOps practices and principals. He is excited to engage in new experiences, and learning opportunities.</description>
     </item>
     
     <item>

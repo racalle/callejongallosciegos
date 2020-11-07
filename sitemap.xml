@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://callejongallosciegos.rcalle.es/2020-01-piloto/</loc>
+    <loc>https://callejongallosciegos.rcalle.es/2020-00-piloto/</loc>
     <lastmod>2020-11-05T19:10:21+01:00</lastmod>
   </url>
   
@@ -15,6 +15,11 @@
   <url>
     <loc>https://callejongallosciegos.rcalle.es/episode/</loc>
     <lastmod>2020-11-05T19:10:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://callejongallosciegos.rcalle.es/host/0rcalle/</loc>
+    <lastmod>2020-11-01T20:55:58-06:00</lastmod>
   </url>
   
   <url>
@@ -108,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://callejongallosciegos.rcalle.es/host/bkromhout/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://callejongallosciegos.rcalle.es/guest/jsmith/</loc>
     <lastmod>2016-12-08T20:55:58-06:00</lastmod>
   </url>
@@ -128,32 +128,22 @@
   </url>
   
   <url>
-    <loc>https://callejongallosciegos.rcalle.es/host/mstratton/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://callejongallosciegos.rcalle.es/host/thess/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://callejongallosciegos.rcalle.es/about/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://callejongallosciegos.rcalle.es/about/</loc>
-    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://callejongallosciegos.rcalle.es/guest/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://callejongallosciegos.rcalle.es/host/</loc>
+    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://callejongallosciegos.rcalle.es/guest/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url>
   
