@@ -14,7 +14,7 @@
     <atom:link href="https://callejongallosciegos.rcalle.es/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://callejongallosciegos.rcalle.es/</link>
     <description>El callejón de los gallos ciegos se cocina como un caldo de pollo: se echan unos años de escucha de podcasting, un poco de indignación político-social, unas hierbas tecnológicas, una cucharada de humor, y listo.</description>
-    <lastBuildDate>Thu, 5 Nov 2020 19:10:21 &#43;0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 19:10:21 &#43;0100</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>es-es</language>
@@ -42,7 +42,7 @@
         <item>
           <title></title>
           <link>https://callejongallosciegos.rcalle.es/2020-00-piloto/</link>
-          <pubDate>Thu, 05 Nov 2020 19:10:21 +0100 </pubDate>
+          <pubDate>Mon, 30 Nov 2020 19:10:21 +0100 </pubDate>
           <dc:creator></dc:creator>
           <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/###.mp3</guid>
           <itunes:author>Ramón Calle</itunes:author>
@@ -50,17 +50,17 @@
         <itunes:title></itunes:title>
         <itunes:subtitle><![CDATA[
         
-        Un nuevo podcast se está cocinando a fuego lento. Esperad al capítulo piloto.
+        Podcast under construction...
         
         ]]></itunes:subtitle>
-        <itunes:summary>Un nuevo podcast se está cocinando a fuego lento. Esperad al capítulo piloto.</itunes:summary>
-        <description>Un nuevo podcast se está cocinando a fuego lento. Esperad al capítulo piloto.</description>
-        <googleplay:description>Un nuevo podcast se está cocinando a fuego lento. Esperad al capítulo piloto.</googleplay:description>
+        <itunes:summary>Podcast under construction...</itunes:summary>
+        <description>Podcast under construction...</description>
+        <googleplay:description>Podcast under construction...</googleplay:description>
         <content:encoded><![CDATA[<hr>
 <h1 id="0-piloto">0. Piloto</h1>
-<p>Un nuevo podcast se está cocinando a fuego lento. Esperad al capítulo piloto.</p>
+<p>Un nuevo podcast se está cocinando a fuego lento. Esperad al primer capítulo 🥚</p>
 <hr>
-<h6 id="tags-episodio-2020-00-piloto">tags: episodio, 2020-00-piloto</h6>
+<h6 id="tags-borrador-2020">tags: <code>borrador</code> <code>2020</code></h6>
 ]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/default.jpg"></itunes:image>
           <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/default.jpg"></googleplay:image><enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/###.mp3"  type="audio/mpeg" /><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item></channel>
