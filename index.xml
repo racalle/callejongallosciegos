@@ -6,15 +6,16 @@
     <description>Recent content on El callejón de los gallos ciegos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 30 Nov 2020 19:10:21 +0100</lastBuildDate><atom:link href="https://callejongallosciegos.rcalle.es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0100</lastBuildDate><atom:link href="https://callejongallosciegos.rcalle.es/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://callejongallosciegos.rcalle.es/2020-00-piloto/</link>
-      <pubDate>Mon, 30 Nov 2020 19:10:21 +0100</pubDate>
+      <title>Piloto</title>
+      <link>https://callejongallosciegos.rcalle.es/001-piloto/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0100</pubDate>
       
-      <guid>https://callejongallosciegos.rcalle.es/2020-00-piloto/</guid>
-      <description> 0. Piloto Un nuevo podcast se está cocinando a fuego lento. Esperad al primer capítulo 🥚
- tags: borrador 2020 </description>
+      <guid>https://callejongallosciegos.rcalle.es/001-piloto/</guid>
+      <description> Episodio 1. Piloto Un nuevo podcast acaba de nacer. 🐣
+Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.
+ tags: 2020 </description>
     </item>
     
     <item>
@@ -40,10 +41,10 @@ Webs amigas  Página de Facundo Gallo  </description>
     
     <item>
       <title>Ramón Calle</title>
-      <link>https://callejongallosciegos.rcalle.es/host/0rcalle/</link>
+      <link>https://callejongallosciegos.rcalle.es/host/rcalle/</link>
       <pubDate>Sun, 01 Nov 2020 20:55:58 -0600</pubDate>
       
-      <guid>https://callejongallosciegos.rcalle.es/host/0rcalle/</guid>
+      <guid>https://callejongallosciegos.rcalle.es/host/rcalle/</guid>
       <description>Ingeniero Técnico Informático, Master en Seguridad IT y en Comunicación Cientifico-Tecnológica.
 Para contactar conmigo directamente manden un email ✉️</description>
     </item>

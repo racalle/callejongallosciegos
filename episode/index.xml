@@ -14,7 +14,7 @@
     <atom:link href="https://callejongallosciegos.rcalle.es/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://callejongallosciegos.rcalle.es/</link>
     <description>El callejón de los gallos ciegos se cocina como un caldo de pollo: se echan unos años de escucha de podcasting, un poco de indignación político-social, unas hierbas tecnológicas, una cucharada de humor, y listo.</description>
-    <lastBuildDate>Mon, 30 Nov 2020 19:10:21 &#43;0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 &#43;0100</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>es-es</language>
@@ -30,38 +30,41 @@
       <itunes:name>Ramón Calle</itunes:name>
       <itunes:email>racalle@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://callejongallosciegos.rcalle.es/img/about_logo.png" />
-    <googleplay:image href="https://callejongallosciegos.rcalle.es/img/about_logo.png"></googleplay:image>
+    <itunes:image href="https://callejongallosciegos.rcalle.es/img/3000x3000.png" />
+    <googleplay:image href="https://callejongallosciegos.rcalle.es/img/3000x3000.png"></googleplay:image>
     <image>
-      <url>https://callejongallosciegos.rcalle.es/img/about_logo.png</url>
+      <url>https://callejongallosciegos.rcalle.es/img/3000x3000.png</url>
       <title>El callejón de los gallos ciegos</title>
       <link>https://callejongallosciegos.rcalle.es/</link>
     </image>
-    <itunes:category text="Technology">
-      <itunes:category text="Politics" /><itunes:category text="Podcasts" /></itunes:category><generator>Hugo -- gohugo.io</generator>
+    <itunes:category text="Science">
+      <itunes:category text="Social Sciences" /><itunes:category text="Life Sciences" /></itunes:category><generator>Hugo -- gohugo.io</generator>
         <item>
-          <title></title>
-          <link>https://callejongallosciegos.rcalle.es/2020-00-piloto/</link>
-          <pubDate>Mon, 30 Nov 2020 19:10:21 +0100 </pubDate>
+          <title>Piloto</title>
+          <link>https://callejongallosciegos.rcalle.es/001-piloto/</link>
+          <pubDate>Sat, 12 Dec 2020 00:00:00 +0100 </pubDate>
           <dc:creator></dc:creator>
-          <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/###.mp3</guid>
+          <guid>https://archive.org/download/ecdlgc/001_piloto.m4a</guid>
           <itunes:author>Ramón Calle</itunes:author>
           
-        <itunes:title></itunes:title>
+          <itunes:episode>1</itunes:episode>
+          
+        <itunes:title>Piloto</itunes:title>
         <itunes:subtitle><![CDATA[
         
-        Podcast under construction...
+        Un nuevo podcast acaba de nacer. Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.
         
         ]]></itunes:subtitle>
-        <itunes:summary>Podcast under construction...</itunes:summary>
-        <description>Podcast under construction...</description>
-        <googleplay:description>Podcast under construction...</googleplay:description>
+        <itunes:summary>Un nuevo podcast acaba de nacer. Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.</itunes:summary>
+        <description>Un nuevo podcast acaba de nacer. Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.</description>
+        <googleplay:description>Un nuevo podcast acaba de nacer. Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.</googleplay:description>
         <content:encoded><![CDATA[<hr>
-<h1 id="0-piloto">0. Piloto</h1>
-<p>Un nuevo podcast se está cocinando a fuego lento. Esperad al primer capítulo 🥚</p>
+<h1 id="episodio-1-piloto">Episodio 1. Piloto</h1>
+<p>Un nuevo podcast acaba de nacer. 🐣</p>
+<p>Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.</p>
 <hr>
-<h6 id="tags-borrador-2020">tags: <code>borrador</code> <code>2020</code></h6>
-]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/default.jpg"></itunes:image>
-          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/default.jpg"></googleplay:image><enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/###.mp3"  type="audio/mpeg" /><itunes:explicit>no</itunes:explicit>
+<h6 id="tags-2020">tags: <code>2020</code></h6>
+]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/001.png"></itunes:image>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/001.png"></googleplay:image><enclosure url="https://archive.org/download/ecdlgc/001_piloto.m4a"  type="audio/mpeg" /><itunes:duration>27:25</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item></channel>
 </rss>
