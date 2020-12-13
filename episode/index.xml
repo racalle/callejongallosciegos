@@ -38,7 +38,8 @@
       <link>https://callejongallosciegos.rcalle.es/</link>
     </image>
     <itunes:category text="Science">
-      <itunes:category text="Social Sciences" /><itunes:category text="Life Sciences" /></itunes:category><generator>Hugo -- gohugo.io</generator>
+      <itunes:category text="Social Sciences" /><itunes:category text="Life Sciences" /></itunes:category><itunes:explicit>no</itunes:explicit>
+    <googleplay:explicit>no</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
         <item>
           <title>Piloto</title>
           <link>https://callejongallosciegos.rcalle.es/001-piloto/</link>
