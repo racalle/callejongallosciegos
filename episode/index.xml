@@ -44,7 +44,7 @@
           <link>https://callejongallosciegos.rcalle.es/001-piloto/</link>
           <pubDate>Sat, 12 Dec 2020 00:00:00 +0100 </pubDate>
           <dc:creator></dc:creator>
-          <guid>https://archive.org/download/ecdlgc/001_piloto.m4a</guid>
+          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/001_piloto.m4a</guid>
           <itunes:author>Ramón Calle</itunes:author>
           
           <itunes:episode>1</itunes:episode>
@@ -65,6 +65,6 @@
 <hr>
 <h6 id="tags-2020">tags: <code>2020</code></h6>
 ]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/001.png"></itunes:image>
-          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/001.png"></googleplay:image><enclosure url="https://archive.org/download/ecdlgc/001_piloto.m4a"  type="audio/mpeg" /><itunes:duration>27:25</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/001.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/001_piloto.m4a"  type="audio/mpeg" /><itunes:duration>27:25</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item></channel>
 </rss>
