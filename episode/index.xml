@@ -14,7 +14,7 @@
     <atom:link href="https://callejongallosciegos.rcalle.es/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://callejongallosciegos.rcalle.es/</link>
     <description>El callejón de los gallos ciegos se cocina como un caldo de pollo: se echan unos años de escucha de podcasting, un poco de indignación político-social, unas hierbas tecnológicas, una cucharada de humor, y listo.</description>
-    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 &#43;0100</lastBuildDate>
+    <lastBuildDate>Sat, 2 Jan 2021 00:00:00 &#43;0100</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>es-es</language>
@@ -41,27 +41,147 @@
       <itunes:category text="Social Sciences" /><itunes:category text="Life Sciences" /></itunes:category><itunes:explicit>no</itunes:explicit>
     <googleplay:explicit>no</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
         <item>
+          <title>Desinformación en Tiempos De Pandemia</title>
+          <link>https://callejongallosciegos.rcalle.es/002_desinformacion_en_tiempos_de_pandemia/</link>
+          <pubDate>Sat, 02 Jan 2021 00:00:00 +0100 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/002_desinformacion_en_tiempos_de_pandemia.m4a</guid>
+          <itunes:author>
+            
+            
+              Ramón Calle</itunes:author>
+          
+          <itunes:episode>2</itunes:episode>
+          
+        <itunes:title>Desinformación en Tiempos De Pandemia</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Hablamos de los contenidos negacionistas encontrados en varias RRSS llenos de falsos expertos, falsos analistas, materiales contrarios a las vacunas, anti PCRs, anti mascarillas, etcétera.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Hablamos de los contenidos negacionistas encontrados en varias RRSS llenos de falsos expertos, falsos analistas, materiales contrarios a las vacunas, anti PCRs, anti mascarillas, etcétera.</itunes:summary>
+        <description>Hablamos de los contenidos negacionistas encontrados en varias RRSS llenos de falsos expertos, falsos analistas, materiales contrarios a las vacunas, anti PCRs, anti mascarillas, etcétera.</description>
+        <googleplay:description>Hablamos de los contenidos negacionistas encontrados en varias RRSS llenos de falsos expertos, falsos analistas, materiales contrarios a las vacunas, anti PCRs, anti mascarillas, etcétera.</googleplay:description>
+        <content:encoded><![CDATA[<hr>
+<h1 id="episodio-2-desinformación-en-tiempos-de-pandemia">Episodio 2. Desinformación en tiempos de pandemia</h1>
+<h4 id="nota-las-imágenes-aquí-presentadas-son-ejemplos-de-contenidos-que-consideramos-desinformativos-este-podcast-es-contrario-a-este-tipo-de-materiales-y-se-opone-a-la-difusión-de-los-mismos">NOTA: las imágenes aquí presentadas son ejemplos de contenidos que consideramos desinformativos. Este podcast es contrario a este tipo de materiales y se opone a la difusión de los mismos.</h4>
+<p>Les recomendamos que busquen siempre medios que contrasten la información que publican, como por ej. el blog <a href="www.ablogios.com">Ablogios</a> y podcasts como Qarentena o Bacteriófagos, publicados por Carmela García, científica, divulgadora y comunicadora.</p>
+<hr>
+<p>Para escuchar el audio negacionista del virus de la Covid-19 que sirve de introducción a este episodio vayan al minuto 13.41 del <a href="https://callejongallosciegos.rcalle.es/001-piloto/">episodio piloto.</a></p>
+<p>En este episodio hablamos de los contenidos negacionistas encontrados en varias RRSS llenos de falsos expertos, falsos analistas, contenidos contrarios a las vacunas, anti PCRs, anti mascarillas.</p>
+<p>Ejemplos de imágenes encontradas mientras grabábamos el episodio:</p>
+<p><img src="https://i.imgur.com/45BYNQQ.png" alt=""></p>
+<p><img src="https://i.imgur.com/qC53S74.png" alt=""></p>
+<p>Otros ejemplos de contenido negacionista en 2020:</p>
+<p>| <img src="https://i.imgur.com/hs30qc9.png" alt="Contenidos tipo supuestamente médico"> | <img src="https://i.imgur.com/TesMpos.jpg" alt="Contenidos de tipo religioso, acusando de satánicos">
+| <img src="https://i.imgur.com/u5ZYb5x.png" alt="Contenidos de la supuesta derecha alternativa americana, gran cantidad de propaganda pro-trump"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://i.imgur.com/THWgVaM.png" alt=""></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="https://i.imgur.com/JSm9Xip.png" alt=""></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="https://i.imgur.com/qfYtCCE.jpg" alt=""></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>&mdash;&mdash;&ndash;</td>
+<td>&mdash;&mdash;&ndash;</td>
+<td>&mdash;&mdash;&ndash;</td>
+</tr>
+<tr>
+<td><img src="https://i.imgur.com/gah5dri.png" alt=""></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="https://i.imgur.com/0NHmZnK.jpg" alt=""></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="https://i.imgur.com/27Nm0xr.png" alt=""></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>&mdash;&mdash;&ndash;</td>
+<td>&mdash;&mdash;&ndash;</td>
+<td>&mdash;&mdash;&ndash;</td>
+</tr>
+<tr>
+<td><img src="https://i.imgur.com/NB5q596.png" alt=""></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="https://i.imgur.com/0WVabq7.png" alt=""></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>¿Alucinante verdad? 🤦</p>
+<hr>
+<h6 id="tags-2020">tags: <code>2020</code></h6>
+]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/002.png"></itunes:image>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/002.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/002_desinformacion_en_tiempos_de_pandemia.m4a" length="72772994" type="audio/mp4" /><itunes:duration>01:34:51</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
           <title>Piloto</title>
           <link>https://callejongallosciegos.rcalle.es/001-piloto/</link>
           <pubDate>Sat, 12 Dec 2020 00:00:00 +0100 </pubDate>
           <dc:creator></dc:creator>
           <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/001_piloto.m4a</guid>
-          <itunes:author>Ramón Calle</itunes:author>
+          <itunes:author>
+            
+            
+              Ramón Calle</itunes:author>
           
           <itunes:episode>1</itunes:episode>
           
         <itunes:title>Piloto</itunes:title>
         <itunes:subtitle><![CDATA[
         
-        Un nuevo podcast acaba de nacer. Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.
+        Un nuevo podcast ha nacido. Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.
         
         ]]></itunes:subtitle>
-        <itunes:summary>Un nuevo podcast acaba de nacer. Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.</itunes:summary>
-        <description>Un nuevo podcast acaba de nacer. Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.</description>
-        <googleplay:description>Un nuevo podcast acaba de nacer. Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.</googleplay:description>
+        <itunes:summary>Un nuevo podcast ha nacido. Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.</itunes:summary>
+        <description>Un nuevo podcast ha nacido. Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.</description>
+        <googleplay:description>Un nuevo podcast ha nacido. Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.</googleplay:description>
         <content:encoded><![CDATA[<hr>
 <h1 id="episodio-1-piloto">Episodio 1. Piloto</h1>
-<p>Un nuevo podcast acaba de nacer. 🐣</p>
+<p>Un nuevo podcast ha nacido. 🐣</p>
 <p>Trataremos las líneas base de este espacio, e introduciremos el tema del segundo episodio.</p>
 <p>En la descripción global del podcast, encontraréis el link a la web para conocer los medios de contacto.</p>
 <hr>
