@@ -155,8 +155,8 @@
 <hr>
 <h6 id="tags-2020">tags: <code>2020</code></h6>
 ]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/002.png"></itunes:image>
-          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/002.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/002_desinformacion_en_tiempos_de_pandemia.m4a" length="72772994" type="audio/mp4" /><itunes:duration>01:34:51</itunes:duration><itunes:explicit>no</itunes:explicit>
-          <googleplay:explicit>no</googleplay:explicit></item>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/002.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/002_desinformacion_en_tiempos_de_pandemia.m4a" length="72772994" type="audio/mp4" /><itunes:duration>01:34:51</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>false</googleplay:explicit></item>
         <item>
           <title>Piloto</title>
           <link>https://callejongallosciegos.rcalle.es/001-piloto/</link>
