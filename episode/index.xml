@@ -14,7 +14,7 @@
     <atom:link href="https://callejongallosciegos.rcalle.es/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://callejongallosciegos.rcalle.es/</link>
     <description>El callejón de los gallos ciegos se cocina como un caldo de pollo: se echan unos años de escucha de podcasting, un poco de indignación político-social, unas hierbas tecnológicas, una cucharada de humor, y listo.</description>
-    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 &#43;0100</lastBuildDate>
+    <lastBuildDate>Thu, 1 Apr 2021 00:00:00 &#43;0100</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>es-es</language>
@@ -40,6 +40,37 @@
     <itunes:category text="Science">
       <itunes:category text="Social Sciences" /><itunes:category text="Life Sciences" /></itunes:category><itunes:explicit>no</itunes:explicit>
     <googleplay:explicit>no</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Drogas</title>
+          <link>https://callejongallosciegos.rcalle.es/004-drogas/</link>
+          <pubDate>Thu, 01 Apr 2021 00:00:00 +0100 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/004_drogas.m4a</guid>
+          <itunes:author>
+            
+            
+              Ramón Calle</itunes:author>
+          
+          <itunes:episode>4</itunes:episode>
+          
+        <itunes:title>Drogas</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Hoy tratamos el tema de las drogas con el propósito de derribar algunos mitos que siempre se han dado por ciertos. Para ello contamos con Eli Tafani, Grado Superior Técnico en educación infantil, Grado en Educación Social con mención en...
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Hoy tratamos el tema de las drogas con el propósito de derribar algunos mitos que siempre se han dado por ciertos. Para ello contamos con Eli Tafani, Grado Superior Técnico en educación infantil, Grado en Educación Social con mención en infancia y adolescencia, y actualmente cursando un Grado en Psicologia.</itunes:summary>
+        <description>Hoy tratamos el tema de las drogas con el propósito de derribar algunos mitos que siempre se han dado por ciertos. Para ello contamos con Eli Tafani, Grado Superior Técnico en educación infantil, Grado en Educación Social con mención en infancia y adolescencia, y actualmente cursando un Grado en Psicologia.</description>
+        <googleplay:description>Hoy tratamos el tema de las drogas con el propósito de derribar algunos mitos que siempre se han dado por ciertos. Para ello contamos con Eli Tafani, Grado Superior Técnico en educación infantil, Grado en Educación Social con mención en infancia y adolescencia, y actualmente cursando un Grado en Psicologia.</googleplay:description>
+        <content:encoded><![CDATA[<hr>
+<h1 id="episodio-4-drogas">Episodio 4: Drogas</h1>
+<p>Hoy tratamos el tema de las drogas con el propósito de derribar algunos mitos que siempre se han dado por ciertos. Para ello contamos con Eli Tafani, Grado Superior Técnico en educación infantil, Grado en Educación Social con mención en infancia y adolescencia, y actualmente cursando un Grado en Psicologia.</p>
+<p>Como aperitivo miren este trozo de vídeo que habla del programa <a href="https://youtu.be/4SHbjeVftio">&ldquo;Drugslab&rdquo;</a> ¿qué opináis?</p>
+<hr>
+<h6 id="tags-2021">tags: <code>2021</code></h6>
+]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/004.png"></itunes:image>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/004.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/004_drogas.m4a" length="74003022" type="audio/mp4" /><itunes:duration>01:36:54</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>Dark Net</title>
           <link>https://callejongallosciegos.rcalle.es/003-dark-net/</link>
@@ -73,7 +104,7 @@
           <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/003.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/003_dark_net.m4a" length="74003022" type="audio/mp4" /><itunes:duration>01:36:54</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
-          <title>Desinformación en tiempos de pandemia</title>
+          <title>Desinformación en Tiempos De Pandemia</title>
           <link>https://callejongallosciegos.rcalle.es/002_desinformacion_en_tiempos_de_pandemia/</link>
           <pubDate>Sat, 02 Jan 2021 00:00:00 +0100 </pubDate>
           <dc:creator></dc:creator>
@@ -85,7 +116,7 @@
           
           <itunes:episode>2</itunes:episode>
           
-        <itunes:title>Desinformación en tiempos de pandemia</itunes:title>
+        <itunes:title>Desinformación en Tiempos De Pandemia</itunes:title>
         <itunes:subtitle><![CDATA[
         
         Hablamos de los contenidos negacionistas encontrados en varias RRSS llenos de falsos expertos, falsos analistas, materiales contrarios a las vacunas, anti PCRs, anti mascarillas, etcétera.
