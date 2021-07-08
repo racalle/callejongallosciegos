@@ -14,7 +14,7 @@
     <atom:link href="https://callejongallosciegos.rcalle.es/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://callejongallosciegos.rcalle.es/</link>
     <description>El callejón de los gallos ciegos se cocina como un caldo de pollo: se echan unos años de escucha de podcasting, un poco de indignación político-social, unas hierbas tecnológicas, una cucharada de humor, y listo.</description>
-    <lastBuildDate>Thu, 1 Apr 2021 00:00:00 &#43;0100</lastBuildDate>
+    <lastBuildDate>Thu, 1 Jul 2021 00:00:00 &#43;0100</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>es-es</language>
@@ -40,6 +40,60 @@
     <itunes:category text="Science">
       <itunes:category text="Social Sciences" /><itunes:category text="Life Sciences" /></itunes:category><itunes:explicit>no</itunes:explicit>
     <googleplay:explicit>no</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Armas</title>
+          <link>https://callejongallosciegos.rcalle.es/005-armas/</link>
+          <pubDate>Thu, 01 Jul 2021 00:00:00 +0100 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/005_armas.m4a</guid>
+          <itunes:author>
+            
+            
+              Ramón Calle</itunes:author>
+          
+          <itunes:episode>5</itunes:episode>
+          
+        <itunes:title>Armas</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Otro tema tabú. Las armas. Contamos con la información y opinión al respecto de D. Facundo Gallo, nuestro gallo de cabecera, donde introduciremos los aspectos más relevantes de las licencias de armas en España y plantearemos la polémica sobre...
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Otro tema tabú. Las armas. Contamos con la información y opinión al respecto de D. Facundo Gallo, nuestro gallo de cabecera, donde introduciremos los aspectos más relevantes de las licencias de armas en España y plantearemos la polémica sobre su uso para la defensa personal.</itunes:summary>
+        <description>Otro tema tabú. Las armas. Contamos con la información y opinión al respecto de D. Facundo Gallo, nuestro gallo de cabecera, donde introduciremos los aspectos más relevantes de las licencias de armas en España y plantearemos la polémica sobre su uso para la defensa personal.</description>
+        <googleplay:description>Otro tema tabú. Las armas. Contamos con la información y opinión al respecto de D. Facundo Gallo, nuestro gallo de cabecera, donde introduciremos los aspectos más relevantes de las licencias de armas en España y plantearemos la polémica sobre su uso para la defensa personal.</googleplay:description>
+        <content:encoded><![CDATA[<hr>
+<h1 id="episodio-5-armas-y-defensa-personal">Episodio 5. Armas y defensa personal</h1>
+<p>Hoy trataremos con D. Facundo Gallo sobre las armas y la defensa personal, un tema del que no se habla en España y del que queremos arrojar algo de información. 1.1M de armas de fuego son suficiente motivo para no ignorar este asunto.</p>
+<h3 id="información-general">Información general</h3>
+<ul>
+<li>Calibres</li>
+<li>Munición</li>
+<li>Tipos de armas de fuego</li>
+<li>La técnica y la práctica</li>
+<li>Mantenimiento de las armas de fuego</li>
+</ul>
+<h3 id="mitos">Mitos</h3>
+<p>Carácter del que entrena con armas, ¿hombre siempre?
+¿Practicar tiro en un campo de tiro es inseguro?
+Un arma de fuego no tiene riesgos para el tirador. Ver vídeo de <a href="https://youtu.be/WUzss73IdxA">youtube</a> (puede herir sensibilidades)
+El retroceso, ¿es tan importante?</p>
+<h3 id="licencias-de-armas-en-españa">Licencias de armas en España:</h3>
+<p><img src="https://i.imgur.com/9TK1feE.png" alt=""></p>
+<h3 id="armas-de-no-fuego">Armas de no fuego</h3>
+<ul>
+<li>Aire comprimido</li>
+<li>Armas blancas</li>
+<li>Armas traumáticas</li>
+</ul>
+<h3 id="debate-y-defensa-personal">Debate y defensa personal</h3>
+<p>El &ldquo;derecho&rdquo; a tener un arma cargada en casa para la defensa personal
+La legítima defensa</p>
+<hr>
+<h6 id="tags-2021">tags: <code>2021</code></h6>
+]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/005.png"></itunes:image>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/005.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/005_armas.m4a" length="84168296" type="audio/mp4" /><itunes:duration>01:44:58</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>Drogas</title>
           <link>https://callejongallosciegos.rcalle.es/004-drogas/</link>
@@ -104,7 +158,7 @@
           <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/003.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/003_dark_net.m4a" length="74003022" type="audio/mp4" /><itunes:duration>01:36:54</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
-          <title>Desinformación en tiempos de pandemia</title>
+          <title>Desinformación en Tiempos De Pandemia</title>
           <link>https://callejongallosciegos.rcalle.es/002_desinformacion_en_tiempos_de_pandemia/</link>
           <pubDate>Sat, 02 Jan 2021 00:00:00 +0100 </pubDate>
           <dc:creator></dc:creator>
@@ -116,7 +170,7 @@
           
           <itunes:episode>2</itunes:episode>
           
-        <itunes:title>Desinformación en tiempos de pandemia</itunes:title>
+        <itunes:title>Desinformación en Tiempos De Pandemia</itunes:title>
         <itunes:subtitle><![CDATA[
         
         Hablamos de los contenidos negacionistas encontrados en varias RRSS llenos de falsos expertos, falsos analistas, materiales contrarios a las vacunas, anti PCRs, anti mascarillas, etcétera.
