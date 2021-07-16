@@ -14,7 +14,7 @@
     <atom:link href="https://callejongallosciegos.rcalle.es/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://callejongallosciegos.rcalle.es/</link>
     <description>El callejón de los gallos ciegos se cocina como un caldo de pollo: se echan unos años de escucha de podcasting, un poco de indignación político-social, unas hierbas tecnológicas, una cucharada de humor, y listo.</description>
-    <lastBuildDate>Thu, 1 Jul 2021 00:00:00 &#43;0100</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 &#43;0100</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>es-es</language>
@@ -40,6 +40,48 @@
     <itunes:category text="Science">
       <itunes:category text="Social Sciences" /><itunes:category text="Life Sciences" /></itunes:category><itunes:explicit>no</itunes:explicit>
     <googleplay:explicit>no</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Ingeniería Informática en España</title>
+          <link>https://callejongallosciegos.rcalle.es/006-ingenieria_informatica_espa%C3%B1a/</link>
+          <pubDate>Fri, 16 Jul 2021 00:00:00 +0100 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/006_ingenieria_informatica_españa.m4a</guid>
+          <itunes:author>
+            
+            
+              Ramón Calle</itunes:author>
+          
+          <itunes:episode>6</itunes:episode>
+          
+        <itunes:title>Ingeniería Informática en España</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Nuestra visión de la Ingeniería Informática en España, sin tapujos ni censura. Desde la Universidad al mercado laboral.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Nuestra visión de la Ingeniería Informática en España, sin tapujos ni censura. Desde la Universidad al mercado laboral.</itunes:summary>
+        <description>Nuestra visión de la Ingeniería Informática en España, sin tapujos ni censura. Desde la Universidad al mercado laboral.</description>
+        <googleplay:description>Nuestra visión de la Ingeniería Informática en España, sin tapujos ni censura. Desde la Universidad al mercado laboral.</googleplay:description>
+        <content:encoded><![CDATA[<hr>
+<h1 id="episodio-6-ingeniería-informática-en-españa-nuestra-visión">Episodio 6: Ingeniería Informática en España, nuestra visión</h1>
+<p>Os damos nuestra percepción de la profesión de Ingeniero Informático en España desde el prisma de nuestra experiencia personal.</p>
+<p>Hemos charlado con Facun, nuestro gallo de cabecera, sobre:</p>
+<ul>
+<li>La Universidad, la evolución desde la obsolescencia de temarios hacia la modernización. Universidad privada vs pública. Lo que se espera respecto a lo que uno se encuentra.</li>
+<li>La transición hacia Bolonia. El desajuste entre las antiguas Diplomaturas y Licenciaturas y los nuevos Grados y Másteres universitarios. La falta de reconocimiento interno de las Diplomaturas españolas frente a los Grados Europeos de 3 años. Los Másteres universitarios oficiales en Informática que no otorgan el segundo ciclo de Ingeniero Informático.</li>
+</ul>
+<p><img src="https://i.imgur.com/OfsMKYJ.png" alt=""></p>
+<p><img src="https://i.imgur.com/bFsjoCs.png" alt=""></p>
+<ul>
+<li>Una Ingeniería sin colegio oficial reconocido en España. Agravio comparativo con otras Ingenierías. Los problemas de no regular una profesión técnica. ¿Qué pasaría si se &ldquo;regularizara&rdquo; la profesión?</li>
+<li>Mercado laboral, el fenómeno de la multiexplotacion.</li>
+<li>El intrusismo en el acceso al trabajo privado y público. El no reconocimiento de la Ingeniería Técnica Informátia para el acceso al cuerpo superior de informática frente a licenciaturas de otras áreas del conocimiento (Historia, Económicas, Biología etc). El problema de la toma de decisiones por responsables no técnicos.</li>
+</ul>
+<hr>
+<h6 id="tags-2021">tags: <code>2021</code></h6>
+]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/006.png"></itunes:image>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/006.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/006_ingenieria_informatica_espa%c3%b1a.m4a" length="50166591" type="audio/mp4" /><itunes:duration>01:06:47</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>Armas</title>
           <link>https://callejongallosciegos.rcalle.es/005-armas/</link>
@@ -158,7 +200,7 @@ La legítima defensa</p>
           <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/003.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/003_dark_net.m4a" length="74003022" type="audio/mp4" /><itunes:duration>01:36:54</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
-          <title>Desinformación en tiempos de pandemia</title>
+          <title>Desinformación en Tiempos De Pandemia</title>
           <link>https://callejongallosciegos.rcalle.es/002_desinformacion_en_tiempos_de_pandemia/</link>
           <pubDate>Sat, 02 Jan 2021 00:00:00 +0100 </pubDate>
           <dc:creator></dc:creator>
@@ -170,7 +212,7 @@ La legítima defensa</p>
           
           <itunes:episode>2</itunes:episode>
           
-        <itunes:title>Desinformación en tiempos de pandemia</itunes:title>
+        <itunes:title>Desinformación en Tiempos De Pandemia</itunes:title>
         <itunes:subtitle><![CDATA[
         
         Hablamos de los contenidos negacionistas encontrados en varias RRSS llenos de falsos expertos, falsos analistas, materiales contrarios a las vacunas, anti PCRs, anti mascarillas, etcétera.
