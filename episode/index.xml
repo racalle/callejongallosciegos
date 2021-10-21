@@ -14,7 +14,7 @@
     <atom:link href="https://callejongallosciegos.rcalle.es/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://callejongallosciegos.rcalle.es/</link>
     <description>El callejón de los gallos ciegos se cocina como un caldo de pollo: se echan unos años de escucha de podcasting, un poco de indignación político-social, unas hierbas tecnológicas, una cucharada de humor, y listo.</description>
-    <lastBuildDate>Fri, 16 Jul 2021 00:00:00 &#43;0100</lastBuildDate>
+    <lastBuildDate>Fri, 1 Oct 2021 00:00:00 &#43;0100</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>es-es</language>
@@ -41,11 +41,42 @@
       <itunes:category text="Social Sciences" /><itunes:category text="Life Sciences" /></itunes:category><itunes:explicit>no</itunes:explicit>
     <googleplay:explicit>no</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
         <item>
+          <title>Astroturfing</title>
+          <link>https://callejongallosciegos.rcalle.es/007-astroturfing/</link>
+          <pubDate>Fri, 01 Oct 2021 00:00:00 +0100 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc007/007_astroturfing.m4a</guid>
+          <itunes:author>
+            
+            
+              Ramón Calle</itunes:author>
+          
+          <itunes:episode>7</itunes:episode>
+          
+        <itunes:title>Astroturfing</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Fake news, Astroturfing y otras técnicas para fabricar opinión en las redes sociales más conocidas. Para guiarnos en la jungla de estas oscuras manipulaciones tenemos el honor de contar con  Sergio Arce, investigador universitario y experto en...
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Fake news, Astroturfing y otras técnicas para fabricar opinión en las redes sociales más conocidas. Para guiarnos en la jungla de estas oscuras manipulaciones tenemos el honor de contar con  Sergio Arce, investigador universitario y experto en la materia, un auténtico lujo!</itunes:summary>
+        <description>Fake news, Astroturfing y otras técnicas para fabricar opinión en las redes sociales más conocidas. Para guiarnos en la jungla de estas oscuras manipulaciones tenemos el honor de contar con  Sergio Arce, investigador universitario y experto en la materia, un auténtico lujo!</description>
+        <googleplay:description>Fake news, Astroturfing y otras técnicas para fabricar opinión en las redes sociales más conocidas. Para guiarnos en la jungla de estas oscuras manipulaciones tenemos el honor de contar con  Sergio Arce, investigador universitario y experto en la materia, un auténtico lujo!</googleplay:description>
+        <content:encoded><![CDATA[<hr>
+<h1 id="episodio-7-astroturfing">Episodio 7: Astroturfing</h1>
+<p>En este episodio descubrirás quién corta el bacalao de las RRSS (o el césped). Facebook, Twitter o Youtube,  ninguna se escapa de las fuerzas creadoras de opinión. ¿El problema? Cuando la información en vez de verdadera, es falsa a conciencia: la desinformación.</p>
+<p>Para guiarnos en la jungla de estas oscuras manipulaciones tenemos el honor de contar con Sergio Arce, investigador universitario y experto en esta materia entre muchas otras, un auténtico lujo!</p>
+<hr>
+<h6 id="tags-2021">tags: <code>2021</code></h6>
+]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/007.png"></itunes:image>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/007.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc007/007_astroturfing.m4a" length="70088199" type="audio/mp4" /><itunes:duration>01:33:08</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
           <title>Ingeniería Informática en España</title>
           <link>https://callejongallosciegos.rcalle.es/006-ingenieria_informatica_espa%C3%B1a/</link>
           <pubDate>Fri, 16 Jul 2021 00:00:00 +0100 </pubDate>
           <dc:creator></dc:creator>
-          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/006_ingenieria_informatica_españa.m4a</guid>
+          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc006/006_ingenieria_informatica_españa.m4a</guid>
           <itunes:author>
             
             
@@ -80,14 +111,14 @@
 <hr>
 <h6 id="tags-2021">tags: <code>2021</code></h6>
 ]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/006.png"></itunes:image>
-          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/006.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/006_ingenieria_informatica_espa%c3%b1a.m4a" length="50166591" type="audio/mp4" /><itunes:duration>01:06:47</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/006.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc006/006_ingenieria_informatica_espa%c3%b1a.m4a" length="50166591" type="audio/mp4" /><itunes:duration>01:06:47</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>Armas</title>
           <link>https://callejongallosciegos.rcalle.es/005-armas/</link>
           <pubDate>Thu, 01 Jul 2021 00:00:00 +0100 </pubDate>
           <dc:creator></dc:creator>
-          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/005_armas.m4a</guid>
+          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc005/005_armas.m4a</guid>
           <itunes:author>
             
             
@@ -134,14 +165,14 @@ La legítima defensa</p>
 <hr>
 <h6 id="tags-2021">tags: <code>2021</code></h6>
 ]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/005.png"></itunes:image>
-          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/005.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/005_armas.m4a" length="84168296" type="audio/mp4" /><itunes:duration>01:44:58</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/005.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc005/005_armas.m4a" length="84168296" type="audio/mp4" /><itunes:duration>01:44:58</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>Drogas</title>
           <link>https://callejongallosciegos.rcalle.es/004-drogas/</link>
           <pubDate>Thu, 01 Apr 2021 00:00:00 +0100 </pubDate>
           <dc:creator></dc:creator>
-          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/004_drogas.m4a</guid>
+          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc004/004_drogas.m4a</guid>
           <itunes:author>
             
             
@@ -165,14 +196,14 @@ La legítima defensa</p>
 <hr>
 <h6 id="tags-2021">tags: <code>2021</code></h6>
 ]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/004.png"></itunes:image>
-          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/004.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/004_drogas.m4a" length="74003022" type="audio/mp4" /><itunes:duration>01:36:54</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/004.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc004/004_drogas.m4a" length="74003022" type="audio/mp4" /><itunes:duration>01:36:54</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>Dark Net</title>
           <link>https://callejongallosciegos.rcalle.es/003-dark-net/</link>
           <pubDate>Sun, 31 Jan 2021 00:00:00 +0100 </pubDate>
           <dc:creator></dc:creator>
-          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/003_dark_net.m4a</guid>
+          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc003/003_dark_net.m4a</guid>
           <itunes:author>
             
             
@@ -197,14 +228,14 @@ La legítima defensa</p>
 <hr>
 <h6 id="tags-2021">tags: <code>2021</code></h6>
 ]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/003.png"></itunes:image>
-          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/003.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/003_dark_net.m4a" length="74003022" type="audio/mp4" /><itunes:duration>01:36:54</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/003.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc003/003_dark_net.m4a" length="74003022" type="audio/mp4" /><itunes:duration>01:36:54</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
-          <title>Desinformación en tiempos de pandemia</title>
+          <title>Desinformación en Tiempos De Pandemia</title>
           <link>https://callejongallosciegos.rcalle.es/002_desinformacion_en_tiempos_de_pandemia/</link>
           <pubDate>Sat, 02 Jan 2021 00:00:00 +0100 </pubDate>
           <dc:creator></dc:creator>
-          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/002_desinformacion_en_tiempos_de_pandemia.m4a</guid>
+          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc002/002_desinformacion_en_tiempos_de_pandemia.m4a</guid>
           <itunes:author>
             
             
@@ -212,7 +243,7 @@ La legítima defensa</p>
           
           <itunes:episode>2</itunes:episode>
           
-        <itunes:title>Desinformación en tiempos de pandemia</itunes:title>
+        <itunes:title>Desinformación en Tiempos De Pandemia</itunes:title>
         <itunes:subtitle><![CDATA[
         
         Hablamos de los contenidos negacionistas encontrados en varias RRSS llenos de falsos expertos, falsos analistas, materiales contrarios a las vacunas, anti PCRs, anti mascarillas, etcétera.
@@ -314,7 +345,7 @@ La legítima defensa</p>
 <hr>
 <h6 id="tags-2020">tags: <code>2020</code></h6>
 ]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/002.png"></itunes:image>
-          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/002.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc/002_desinformacion_en_tiempos_de_pandemia.m4a" length="72772994" type="audio/mp4" /><itunes:duration>01:34:51</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/002.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc002/002_desinformacion_en_tiempos_de_pandemia.m4a" length="72772994" type="audio/mp4" /><itunes:duration>01:34:51</itunes:duration><itunes:explicit>false</itunes:explicit>
           <googleplay:explicit>false</googleplay:explicit></item>
         <item>
           <title>Piloto</title>
