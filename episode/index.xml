@@ -14,7 +14,7 @@
     <atom:link href="https://callejongallosciegos.rcalle.es/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://callejongallosciegos.rcalle.es/</link>
     <description>El callejón de los gallos ciegos se cocina como un caldo de pollo: se echan unos años de escucha de podcasting, un poco de indignación político-social, unas hierbas tecnológicas, una cucharada de humor, y listo.</description>
-    <lastBuildDate>Fri, 1 Oct 2021 00:00:00 &#43;0100</lastBuildDate>
+    <lastBuildDate>Sun, 1 May 2022 00:00:00 &#43;0100</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>es-es</language>
@@ -40,6 +40,39 @@
     <itunes:category text="Science">
       <itunes:category text="Social Sciences" /><itunes:category text="Life Sciences" /></itunes:category><itunes:explicit>no</itunes:explicit>
     <googleplay:explicit>no</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Pegasus</title>
+          <link>https://callejongallosciegos.rcalle.es/008-pegasus/</link>
+          <pubDate>Sun, 01 May 2022 00:00:00 +0100 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc008/008_pegasus.m4a</guid>
+          <itunes:author>
+            
+            
+              Ramón Calle</itunes:author>
+          
+          <itunes:episode>8</itunes:episode>
+          
+        <itunes:title>Pegasus</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        El caballo de Troya
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>El malware Pegasus desde una perspectiva técnica y menos sensacionalista de lo que se está viendo en los medios. Con D. Facundo Gallo ¡no te lo pierdas!</itunes:summary>
+        <description>El malware Pegasus desde una perspectiva técnica y menos sensacionalista de lo que se está viendo en los medios. Con D. Facundo Gallo ¡no te lo pierdas!</description>
+        <googleplay:description>El malware Pegasus desde una perspectiva técnica y menos sensacionalista de lo que se está viendo en los medios. Con D. Facundo Gallo ¡no te lo pierdas!</googleplay:description>
+        <content:encoded><![CDATA[<h1 id="episodio-8-pegasus-el-caballo-de-troya">Episodio 8: Pegasus, el caballo de Troya</h1>
+<p>-Caballo de Troya: artilugio con forma de enorme caballo de madera que se menciona en la historia de la guerra de Troya y que fue usado por los aqueos como una estrategia para introducir soldados enemigos en la ciudad fortificada de Troya</p>
+<p>-Pegaso:  caballo alado también de la mitología griega  representado moviendo sus patas mientras vuela.</p>
+<p>-Caballo de troya en el mundo de la ciberseguridad: malware que entra de manera inadvertida en la Troya de tu dispositivo con propósito de quedarse</p>
+<p>-Pegasus: <strong>el mayor spyware de la última década</strong></p>
+<p>¿Nombre puesto al azar? Creo que no&hellip; 🐴</p>
+<hr>
+<h6 id="tags-2022">tags: <code>2022</code></h6>
+]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/008.png"></itunes:image>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/008.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc008/008_pegasus.m4a" length="61271569" type="audio/mp4" /><itunes:duration>01:21:55</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>Astroturfing</title>
           <link>https://callejongallosciegos.rcalle.es/007-astroturfing/</link>
@@ -231,7 +264,7 @@ La legítima defensa</p>
           <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/003.png"></googleplay:image><enclosure url="https://dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc003/003_dark_net.m4a" length="74003022" type="audio/mp4" /><itunes:duration>01:36:54</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
-          <title>Desinformación en tiempos de pandemia</title>
+          <title>Desinformación en Tiempos De Pandemia</title>
           <link>https://callejongallosciegos.rcalle.es/002_desinformacion_en_tiempos_de_pandemia/</link>
           <pubDate>Sat, 02 Jan 2021 00:00:00 +0100 </pubDate>
           <dc:creator></dc:creator>
@@ -243,7 +276,7 @@ La legítima defensa</p>
           
           <itunes:episode>2</itunes:episode>
           
-        <itunes:title>Desinformación en tiempos de pandemia</itunes:title>
+        <itunes:title>Desinformación en Tiempos De Pandemia</itunes:title>
         <itunes:subtitle><![CDATA[
         
         Hablamos de los contenidos negacionistas encontrados en varias RRSS llenos de falsos expertos, falsos analistas, materiales contrarios a las vacunas, anti PCRs, anti mascarillas, etcétera.
