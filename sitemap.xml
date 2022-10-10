@@ -1,113 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://callejongallosciegos.rcalle.es/009-ucrania/</loc>
+    <lastmod>2022-10-08T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/</loc>
-    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-10-08T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/episode/</loc>
-    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-10-08T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/008-pegasus/</loc>
     <lastmod>2022-05-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/007-astroturfing/</loc>
     <lastmod>2021-10-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/006-ingenieria_informatica_espa%C3%B1a/</loc>
     <lastmod>2021-07-16T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/005-armas/</loc>
     <lastmod>2021-07-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/004-drogas/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/guest/ecani/</loc>
     <lastmod>2021-02-20T20:55:58-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/003-dark-net/</loc>
     <lastmod>2021-01-31T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/002_desinformacion_en_tiempos_de_pandemia/</loc>
     <lastmod>2021-01-02T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/001-piloto/</loc>
     <lastmod>2020-12-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/guest/fgallo/</loc>
     <lastmod>2020-11-20T20:55:58-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/guest/sarce/</loc>
     <lastmod>2020-11-20T20:55:58-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/books/</loc>
     <lastmod>2020-11-20T15:18:55-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/host/rcalle/</loc>
     <lastmod>2020-11-01T20:55:58-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/contact/</loc>
     <lastmod>2017-04-27T15:19:36-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/about/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/about/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/host/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/guest/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://callejongallosciegos.rcalle.es/tags/</loc>
   </url>
-  
 </urlset>
