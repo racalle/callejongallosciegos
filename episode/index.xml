@@ -14,7 +14,7 @@
     <atom:link href="https://callejongallosciegos.rcalle.es/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://callejongallosciegos.rcalle.es/</link>
     <description>El callejón de los gallos ciegos se cocina como un caldo de pollo: se echan unos años de escucha de podcasting, un poco de indignación político-social, unas hierbas tecnológicas, una cucharada de humor, y listo.</description>
-    <lastBuildDate>Sat, 8 Oct 2022 00:00:00 &#43;0100</lastBuildDate>
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 &#43;0100</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>es-es</language>
@@ -40,6 +40,36 @@
     <itunes:category text="Science">
       <itunes:category text="Social Sciences" /><itunes:category text="Life Sciences" /></itunes:category><itunes:explicit>no</itunes:explicit>
     <googleplay:explicit>no</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>LockBit</title>
+          <link>https://callejongallosciegos.rcalle.es/010-lockbit/</link>
+          <pubDate>Thu, 13 Oct 2022 00:00:00 +0100 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://chrt.fm/track/6761AD/dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc010/010_lockbit.m4a</guid>
+          <itunes:author>
+            
+            
+              Ramón Calle</itunes:author>
+          
+          <itunes:episode>10</itunes:episode>
+          
+        <itunes:title>LockBit</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+         
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>El malware LockBit ¡Peligroso!</itunes:summary>
+        <description>El malware LockBit ¡Peligroso!</description>
+        <googleplay:description>El malware LockBit ¡Peligroso!</googleplay:description>
+        <content:encoded><![CDATA[<h1 id="episodio-10-lockbit">Episodio 10: LockBit</h1>
+<p>Píldora sobre un malware ruso: Lockbit</p>
+<p>Muy recomendable el visionado del <a href="https://video.hardlimit.com/w/c2ohBP7JPk7BY8iFpVLWUb">vídeo del episodio 📹 </a></p>
+<hr>
+<h6 id="tags-2022">tags: <code>2022</code></h6>
+]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/010.png"></itunes:image>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/010.png"></googleplay:image><enclosure url="https://chrt.fm/track/6761AD/dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc010/010_lockbit.m4a" length="15706021" type="audio/mp4" /><itunes:duration>00:20:36</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>Conflicto de Ucrania. También en las redes</title>
           <link>https://callejongallosciegos.rcalle.es/009-ucrania/</link>
