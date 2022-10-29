@@ -14,7 +14,7 @@
     <atom:link href="https://callejongallosciegos.rcalle.es/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://callejongallosciegos.rcalle.es/</link>
     <description>El callejón de los gallos ciegos se cocina como un caldo de pollo: se echan unos años de escucha de podcasting, un poco de indignación político-social, unas hierbas tecnológicas, una cucharada de humor, y listo.</description>
-    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 &#43;0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 &#43;0100</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>es-es</language>
@@ -40,6 +40,37 @@
     <itunes:category text="Science">
       <itunes:category text="Social Sciences" /><itunes:category text="Life Sciences" /></itunes:category><itunes:explicit>no</itunes:explicit>
     <googleplay:explicit>no</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>Música Tenebrosa</title>
+          <link>https://callejongallosciegos.rcalle.es/011-tenebrosa/</link>
+          <pubDate>Fri, 28 Oct 2022 00:00:00 +0100 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://chrt.fm/track/6761AD/dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc011/011_tenebrosa.m4a</guid>
+          <itunes:author>
+            
+            
+              Ramón Calle</itunes:author>
+          
+          <itunes:episode>11</itunes:episode>
+          
+        <itunes:title>Música Tenebrosa</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+         
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Un paseo histórico por la música más oscura. No apto para reaggetoneros</itunes:summary>
+        <description>Un paseo histórico por la música más oscura. No apto para reaggetoneros</description>
+        <googleplay:description>Un paseo histórico por la música más oscura. No apto para reaggetoneros</googleplay:description>
+        <content:encoded><![CDATA[<h1 id="episodio-11-la-música-tenebrosa--">Episodio 11: La música tenebrosa 🎼 👻</h1>
+<p>Episodio sobre la música que no quieres escuchar antes de dormir. La música de las tinieblas.</p>
+<p>Perfecto para la noche de Todos los Santos, aka Halloween 👻</p>
+<p>CANCIONES COMPLETAS en el siguiente <a href="https://video.hardlimit.com/w/bXK6tWXeTwX5Qt4TeFCpF9">vídeo del episodio 📹</a> y en vuestros podcatchers.</p>
+<hr>
+<h6 id="tags-2022">tags: <code>2022</code></h6>
+]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/011.png"></itunes:image>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/011.png"></googleplay:image><enclosure url="https://chrt.fm/track/6761AD/dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc011/011_tenebrosa.m4a" length="90271843" type="audio/mp4" /><itunes:duration>01:37:44</itunes:duration><itunes:explicit>yes</itunes:explicit>
+          <googleplay:explicit>yes</googleplay:explicit></item>
         <item>
           <title>LockBit</title>
           <link>https://callejongallosciegos.rcalle.es/010-lockbit/</link>
