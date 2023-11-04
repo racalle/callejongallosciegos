@@ -14,7 +14,7 @@
     <atom:link href="https://callejongallosciegos.rcalle.es/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://callejongallosciegos.rcalle.es/</link>
     <description>El callejón de los gallos ciegos se cocina como un caldo de pollo: se echan unos años de escucha de podcasting, un poco de indignación político-social, unas hierbas tecnológicas, una cucharada de humor, y listo.</description>
-    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 &#43;0100</lastBuildDate>
+    <lastBuildDate>Sat, 4 Nov 2023 00:00:00 &#43;0100</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>es-es</language>
@@ -41,6 +41,45 @@
       <itunes:category text="Social Sciences" /><itunes:category text="Life Sciences" /></itunes:category><itunes:explicit>no</itunes:explicit>
     <googleplay:explicit>no</googleplay:explicit><generator>Hugo -- gohugo.io</generator>
         <item>
+          <title>Sharenting</title>
+          <link>https://callejongallosciegos.rcalle.es/012-sharenting/</link>
+          <pubDate>Sat, 04 Nov 2023 00:00:00 +0100 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://chrt.fm/track/6761AD/dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc012/012_sharenting.m4a</guid>
+          <itunes:author>
+            
+            
+              Ramón Calle</itunes:author>
+          
+          <itunes:episode>12</itunes:episode>
+          
+        <itunes:title>Sharenting</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Comenzamos con un fenómeno nuevo, el sharenting, para después adentrarnos en problemas aún más serios. Como siempre, sin pelos en la lengua.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Comenzamos con un fenómeno nuevo, el sharenting, para después adentrarnos en problemas aún más serios. Como siempre, sin pelos en la lengua.</itunes:summary>
+        <description>Comenzamos con un fenómeno nuevo, el sharenting, para después adentrarnos en problemas aún más serios. Como siempre, sin pelos en la lengua.</description>
+        <googleplay:description>Comenzamos con un fenómeno nuevo, el sharenting, para después adentrarnos en problemas aún más serios. Como siempre, sin pelos en la lengua.</googleplay:description>
+        <content:encoded><![CDATA[<h1 id="episodio-12-el-sharenting--">Episodio 12: El <em>sharenting</em> 📷 🧒</h1>
+<p>Esta es Jordan C. pero podría haber sido cualquier otro padre o madre del espectro streamer, en este caso ella tiene un canal en youtube.</p>
+<p>Para los que no dominen mucho el inglés, se trata de un  episodio donde Jordan presenta en cámara un momento triste donde, tras morir su mascota, aparece llorando junto con su hijo, Christian, el cual, también, no para de llorar. Contenido bastante discutible, pero legal para el grande de la tecnología: Google.</p>
+<p>La polémica surge después. Ya que el  vídeo no acaba, y descubrimos que las lágrimas del menor eran las verdaderas, la de la youtuber no mucho&hellip;
+Ella le dice&hellip; &ldquo;haz como si estuvieras llorando&rdquo;, y él contesta &ldquo;estoy llorando&rdquo;
+&ldquo;No, pero ponte así! deja que se vea tu boca&rdquo;. Y el pobre niño, que no entiende la situación, repite y repite que ya está llorando&hellip; y es verdad. La criatura lo está pasando realmente mal, se ha muerto su mascota.</p>
+<p>Jordan estaba buscando la fotografía perfecta para elaborar la imagen de presentación del vídeo en youtube, la conocida en el argot como miniatura.
+Esa imagen de 720 pixels de alto tiene mucha relevancia en esta red. Si aparecen en ella reacciones que provoquen sentimientos, el algoritmo premia al vídeo y lo sube en el ranking, obteniéndose más visitas, es decir, más dinero.</p>
+<p>Jordan pretendía ganar tráfico en su canal gracias a la muerte de su perro y a la tristeza de su hijo. Tiene nada menos que medio millón de seguidores, fuente segura de altos ingresos, pero ¿a qué precio? ¿preguntamos a Christian dentro de 15 años qué opina al respecto?</p>
+<p>Después de hacerse público el vídeo, ella se disculpó, diciendo que se retiraba, y que de volver, ya sería sin su hijo en pantalla ¿lo ven suficiente?</p>
+<hr>
+<p>🎤 Muy buenas noches, soy Ramon Calle, y doy inicio al episiodio 12 de ECDLG que trata sobre la exposición de los menores en Internet, y en el caso de contenido compartido por los propios progenitores, sin el consentimiento de los menores, llamado &ldquo;sharenting&rdquo; de Share más Parenting&hellip;</p>
+<hr>
+<h6 id="tags-2023">tags: <code>2023</code></h6>
+]]></content:encoded><itunes:image href="https://callejongallosciegos.rcalle.es/img/episode/012.png"></itunes:image>
+          <googleplay:image href="https://callejongallosciegos.rcalle.es/img/episode/012.png"></googleplay:image><enclosure url="https://chrt.fm/track/6761AD/dts.podtrac.com/redirect.m4a/archive.org/download/ecdlgc012/012_sharenting.m4a" length="77858320" type="audio/mp4" /><itunes:duration>1:27:33</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
           <title>Música Tenebrosa</title>
           <link>https://callejongallosciegos.rcalle.es/011-tenebrosa/</link>
           <pubDate>Fri, 28 Oct 2022 00:00:00 +0100 </pubDate>
@@ -56,7 +95,7 @@
         <itunes:title>Música Tenebrosa</itunes:title>
         <itunes:subtitle><![CDATA[
         
-         
+        Un paseo histórico por la música más oscura. No apto para reaggetoneros
         
         ]]></itunes:subtitle>
         <itunes:summary>Un paseo histórico por la música más oscura. No apto para reaggetoneros</itunes:summary>
